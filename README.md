@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Auto Testing
 
 You can use the [editor on GitHub](https://github.com/wang1999999/ATC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
